@@ -1,0 +1,55 @@
+
+body {
+    background-color: silver (0, 0, 0, 0.845);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+a {
+    color: aqua;
+}
+
+    a:visited {
+        color: purple;
+    }
+
+    img {
+        border: 2px solid purple;
+        padding: 3px;
+        margin: 5px;
+        display: block;
+        margin: auto;
+    }
+    .rizz{
+        font-family: chiller,'Comic Sans MS';
+        color: fuchsia;
+        background-color: lime;
+        border: dashed orange 5px;
+        font-size: larger;
+        font-style: italic;
+    }
+    .nbornes{
+        background-color: red;
+        color: black;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        border: dashed green 5px;
+        font-size: larger;
+    }
+
+    /*Positioning Styles*/
+    .common{
+        position: absolute;
+        border: 5px solid black;
+        background-color: beige;
+    }
+
